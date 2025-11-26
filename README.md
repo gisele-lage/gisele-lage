@@ -1,2 +1,3 @@
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ee639079-938d-457c-a4c8-5eb911771469" /> Gisele Lage
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8ce876a-22ad-4af8-96b2-e7836ff72b61" />
+ Gisele Lage
 
