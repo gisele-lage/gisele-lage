@@ -88,7 +88,8 @@ Olá! Me chamo Gisele Lage, tenho 23 anos e sou formada em Técnico em Desenvolv
     src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=gisele-lage&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
  
-<br/><br/>
+<br/>
+<br/>
 
  <img 
     align="left" 
